@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/getFromBDD"
+        android:title="Afficher un marker de la BDD"/>
+    <item
+        android:id="@+id/action_2"
+        android:title="Action2">
+    </item>
+
+</menu>
